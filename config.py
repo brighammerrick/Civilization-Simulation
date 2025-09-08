@@ -4,7 +4,7 @@
 
 #----Map Init----#
 GRID_SIZE = 250                    # Size of the map (GRID_SIZE x GRID_SIZE)
-NUM_CIVS = 20                      # Number of civilizations
+NUM_CIVS = 20                      # Number of civilizations (20 Recommended max)
 SEED = None                        # Set to None to randomize
     
 #----Map Config----#       
